@@ -4,7 +4,7 @@ Implementation of the UNIX shell in C. It supports the most common comands such 
 
 <p float="center">
   <img src="./img 1.png" width=49% />
-  <img src="./img 2.png" width=43% /> 
+  <img src="./img 2.png" width=50% /> 
 </p>
 
 ## Usage
